@@ -1,7 +1,7 @@
 
 ## Sitema Bancário - DIO Trilha Python
 
-Sistema Bancário simples desenvolvido como Desafio da Trilha Python da DIO: `Otimizando o Sistema Bancário com Funções Python`. 
+Sistema Bancário simples desenvolvido como Desafio da Trilha Python da DIO: `Criando um Sistema Bancário com Python`. 
 
 O sistema, executa a partir do terminal e permite realizar três operações bancárias: 
 
